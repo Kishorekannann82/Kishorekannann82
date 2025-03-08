@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kishore Kannan N</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
-<img align="right" alt="Data Analyst" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<p align="center">
+  <img alt="Data Analyst" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekannann82&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekannann82" /> </p>
 
@@ -9,7 +11,7 @@
 - 💻 All of my projects are available at [My Portfolio](https://kishorekannann82.github.io/Personal-portfolio/)
 - 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas), Power BI, Tableau**
 - 💌 Reach me at **kishorekannann82@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1mPcNNImaaaoD4_KgdpLxg0lN_hpQauF3/view?usp=drivesdk)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1mPcNNImaaaoD4_KgdpLxg0lN_hpQauF3/view?usp=drivesdk)](https://drive.google.com/file/d/1AJysjGFKCkpdk9uasofW_V3wWSagrRUR/view?usp=drivesdk)
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
