@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekannann82&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekannann82" /> </p>
 
-- 🔧 I’m currently working on **Oyo Room Analysis**
-- 🌟 I’m currently learning **Tableau**
+- 🔧 I’m currently working on **Machine Learning Projects**
+- 🌟 I’m currently learning **Machine Learning**
 - 💻 All of my projects are available at [My Portfolio](https://kishorekannann82.github.io/Personal-portfolio/)
-- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas), Power BI, Tableau**
+- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas,Numpy,Seaborn,Matplotlib,Scikit-Learn), Power BI, Tableau,Data Warehousing**
 - 💌 Reach me at **kishorekannann82@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1mPcNNImaaaoD4_KgdpLxg0lN_hpQauF3/view?usp=drivesdk)](https://drive.google.com/file/d/1AJysjGFKCkpdk9uasofW_V3wWSagrRUR/view?usp=drivesdk)
+- 📄 Check out my [Resume]([https://drive.google.com/file/d/1mPcNNImaaaoD4_KgdpLxg0lN_hpQauF3/view?usp=drivesdk](https://drive.google.com/file/d/1qvXEQYj-4M9cD4L2dPrQN5mqnjfJ-ThY/view?usp=drivesdk))]
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
 
 <h3 align="left">Connect with me:</h3>
