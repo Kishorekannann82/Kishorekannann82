@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishore Kannan N</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Enthusiast from India</h3>
 <p align="center">
   <img alt="Data Analyst" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 </p>
@@ -8,10 +8,8 @@
 
 - 🔧 I’m currently working on **Machine Learning Projects**
 - 🌟 I’m currently learning **Machine Learning**
-- 💻 All of my projects are available at [My Portfolio](https://kishorekannann82.github.io/Personal-portfolio/)
 - 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas,Numpy,Seaborn,Matplotlib,Scikit-Learn), Power BI, Tableau,Data Warehousing**
 - 💌 Reach me at **kishorekannann82@gmail.com**
-- 📄 Check out my [Resume]([https://drive.google.com/file/d/1mPcNNImaaaoD4_KgdpLxg0lN_hpQauF3/view?usp=drivesdk](https://drive.google.com/file/d/1qvXEQYj-4M9cD4L2dPrQN5mqnjfJ-ThY/view?usp=drivesdk))]
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
 
 <h3 align="left">Connect with me:</h3>
