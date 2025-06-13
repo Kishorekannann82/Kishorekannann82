@@ -10,6 +10,7 @@
 - 🌟 I’m currently learning **Machine Learning**
 - 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas,Numpy,Seaborn,Matplotlib,Scikit-Learn), Power BI, Tableau,Data Warehousing**
 - 💌 Reach me at **kishorekannann82@gmail.com**
+- Youtube Channel:Kishorelytics
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
 
 <h3 align="left">Connect with me:</h3>
