@@ -8,18 +8,19 @@
 
 - 🔧 I’m currently working on **Machine Learning Projects**
 - 🌟 I’m currently learning **Machine Learning**
-- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas,Numpy,Seaborn,Matplotlib,Scikit-Learn), Power BI, Tableau,Data Warehousing**
+- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn), Power BI, Tableau, Data Warehousing**
 - 💌 Reach me at **kishorekannann82@gmail.com**
-- Youtube Channel:Kishorelytics
+- 📺 YouTube: [Kishorelytics](https://www.youtube.com/@Kishorelytics)
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishore-kannan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishore-kannan-n" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishore-kannan-n-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishore-kannan-n" height="30" width="40" /></a>
 <a href="https://instagram.com/kishore_kannan_nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishore_kannan_nk" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kishore_kannan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kishore_kannan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kit26_ecea22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kit26_ecea22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/4eu2vy0f5d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4eu2vy0f5d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Kishorelytics" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Kishorelytics YouTube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
