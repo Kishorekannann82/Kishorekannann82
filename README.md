@@ -8,7 +8,7 @@
 
 - 🔧 I’m currently working on **Machine Learning Projects**
 - 🌟 I’m currently learning **Machine Learning**
-- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn), Power BI, Tableau, Data Warehousing**
+- 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn), Power BI, Tableau, Data Warehousing,Linux ,Machine Learning(Supervised Learning, Unsupervised Learning, Model Evaluation, Feature Engineering)**
 - 💌 Reach me at **kishorekannann82@gmail.com**
 - 📺 YouTube: [Kishorelytics](https://www.youtube.com/@Kishorelytics)
 - ✨ Fun fact: **The world generates over 328.77 million terabytes of data every day!**
