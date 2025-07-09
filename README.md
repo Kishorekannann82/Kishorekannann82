@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekannann82&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekannann82" /> </p>
 
-- 🔧 I’m currently working on **Machine Learning Projects**
-- 🌟 I’m currently learning **Machine Learning**
+- 🔧 I’m currently working on **Deep Learning Projects**
+- 🌟 I’m currently learning **Deep Learning**
 - 💬 Ask me about **MySQL, Excel (Advanced), Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn), Power BI, Tableau, Data Warehousing,Linux ,Machine Learning(Supervised Learning, Unsupervised Learning, Model Evaluation, Feature Engineering)**
 - 💌 Reach me at **kishorekannann82@gmail.com**
 - 📺 YouTube: [Kishorelytics](https://www.youtube.com/@Kishorelytics)
