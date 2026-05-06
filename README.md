@@ -59,6 +59,11 @@ class KishoreKannan:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-302b63?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-24243e?style=for-the-badge&logo=python&logoColor=white)
 
+### 🦾 AI Agents & Automation *(Next-Gen Skills)*
+![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
+![CrewAI](https://img.shields.io/badge/CrewAI-302b63?style=for-the-badge&logo=openai&logoColor=FF6B6B)
+![Zapier](https://img.shields.io/badge/Zapier-24243e?style=for-the-badge&logo=zapier&logoColor=FF4A00)
+
 ### 📊 BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-302b63?style=for-the-badge&logo=tableau&logoColor=E97627)
@@ -201,12 +206,12 @@ class KishoreKannan:
 
 ---
 
-<!-- Green Snake Contribution Animation -->
+<!-- Green Snake Contribution Animation — shows after running the Snake GitHub Action once -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishorekannann82/Kishorekannann82/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishorekannann82/Kishorekannann82/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishorekannann82/Kishorekannann82/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
