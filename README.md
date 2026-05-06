@@ -111,12 +111,24 @@ class KishoreKannan:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kishorekannann82&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekannann82&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kishorekannann82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=kishorekannann82&theme=tokyonight&hide_border=true&background=0f0c29&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
 
-<br/>
+<br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekannann82&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekannann82&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&text_color=ffffff&langs_count=8" />
+
+</div>
+
+---
+
+## 🟩 Contribution Heatmap
+
+<div align="center">
+
+[![Kishore's GitHub Activity](https://ghchart.rshah.org/a855f7/kishorekannann82)](https://github.com/kishorekannann82)
+
+> 🔥 *Every green square is a step closer to mastery — keep the streak alive!*
 
 </div>
 
@@ -125,16 +137,44 @@ class KishoreKannan:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorekannann82&theme=discord&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishorekannann82&theme=discord&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
 
-## 🌐 Open Source & Community
+## 📺 Kishorelytics — My YouTube Channel
 
 <div align="center">
 
-🧩 **Competitive Coding**
+<a href="https://www.youtube.com/@Kishorelytics" target="_blank">
+  <img src="https://img.shields.io/badge/▶_Subscribe_to_Kishorelytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000" />
+</a>
+
+<br/><br/>
+
+> 🎬 I break down **Data Science, Analytics & ML concepts** into simple, visual, beginner-friendly videos!
+
+| 🎯 What You'll Learn | 📌 Topics Covered |
+|:---:|:---:|
+| 📊 Data Analysis from Scratch | Python, Pandas, Excel |
+| 🤖 Machine Learning Concepts | Algorithms, Model Building |
+| 📈 Business Intelligence | Power BI, Tableau Dashboards |
+| 🧠 Deep Learning Simplified | Neural Nets, Real Projects |
+| 🗃️ SQL & Databases | MySQL, PostgreSQL, Queries |
+
+<br/>
+
+**🔔 Hit Subscribe → Learn Data Science the smart way!**
+
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCkishorelytics?label=Subscribers&style=social&logo=youtube)](https://www.youtube.com/@Kishorelytics)
+
+</div>
+
+---
+
+## 🌐 Open Source & Competitive Coding
+
+<div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://www.leetcode.com/4eu2vy0f5d)
 [![HackerRank](https://img.shields.io/badge/HackerRank-302b63?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/kit26_ecea22)
@@ -149,9 +189,9 @@ class KishoreKannan:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kishore-kannan-n-/)
-[![YouTube](https://img.shields.io/badge/Kishorelytics-302b63?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Kishorelytics)
+[![YouTube](https://img.shields.io/badge/Kishorelytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kishorelytics)
 [![Instagram](https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/kishore_kannan_nk)
-[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kishorekannann82@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-302b63?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kishorekannann82@gmail.com)
 
 <br/>
 
@@ -161,9 +201,13 @@ class KishoreKannan:
 
 ---
 
-<!-- Activity Graph -->
+<!-- Green Snake Contribution Animation -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorekannann82&bg_color=0f0c29&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorekannann82/kishorekannann82/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <!-- Footer Wave -->
