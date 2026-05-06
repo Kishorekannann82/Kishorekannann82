@@ -136,12 +136,12 @@ class KishoreKannan:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kishorekannann82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=kishorekannann82&theme=tokyonight&hide_border=true&background=0f0c29&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kishorekannann82&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kishorekannann82&hide_border=true&background=0f0c29&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekannann82&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&text_color=ffffff&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorekannann82&layout=donut&hide_border=true&bg_color=0f0c29&title_color=a855f7&text_color=ffffff&langs_count=8" />
 
 </div>
 
