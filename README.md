@@ -29,8 +29,11 @@ class KishoreKannan:
         self.location    = "India 🇮🇳"
         self.email       = "kishorekannann82@gmail.com"
         self.youtube     = "Kishorelytics"
-        self.focus       = "Deep Learning Projects"
-        self.learning    = ["Deep Learning", "Neural Networks", "MLOps"]
+        self.focus       = "Deep Learning & AI Agents"
+        self.ml_skills   = ["ANN", "CNN", "RNN", "LSTM", "NLP"]
+        self.frameworks  = ["Flask", "Streamlit", "LangChain"]
+        self.databases   = ["MySQL", "ETL Pipelines", "SQL"]
+        self.viz_tools   = ["Tableau", "Power BI", "Seaborn", "Matplotlib"]
         self.fun_fact    = "328.77 million terabytes of data are generated every single day 🌍"
 
     def mission(self):
@@ -43,37 +46,52 @@ class KishoreKannan:
 
 <div align="center">
 
-### 🐍 Languages & Core
+### 🐍 Programming & ML Libraries
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-302b63?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-24243e?style=for-the-badge&logo=mysql&logoColor=00BCF2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Oracle](https://img.shields.io/badge/Oracle-302b63?style=for-the-badge&logo=oracle&logoColor=F80000)
-
-### 🤖 ML / AI Stack
+![Pandas](https://img.shields.io/badge/Pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-24243e?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Seaborn](https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logo=python&logoColor=79C0FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-302b63?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-24243e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-302b63?style=for-the-badge&logo=keras&logoColor=D00000)
-![Pandas](https://img.shields.io/badge/Pandas-24243e?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-302b63?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-24243e?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-302b63?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
 
-### 🦾 AI Agents & Automation *(Next-Gen Skills)*
-![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
-![CrewAI](https://img.shields.io/badge/CrewAI-302b63?style=for-the-badge&logo=openai&logoColor=FF6B6B)
-![Zapier](https://img.shields.io/badge/Zapier-24243e?style=for-the-badge&logo=zapier&logoColor=FF4A00)
+### 🤖 Machine Learning
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0f0c29?style=for-the-badge&logo=google&logoColor=4285F4)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-302b63?style=for-the-badge&logo=google&logoColor=EA4335)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-24243e?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0f0c29?style=for-the-badge&logo=checkmarx&logoColor=54B848)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-302b63?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![NLP](https://img.shields.io/badge/NLP-24243e?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📊 BI & Visualization
+### 🧠 Deep Learning Architectures
+![ANN](https://img.shields.io/badge/ANN-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![CNN](https://img.shields.io/badge/CNN-302b63?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![RNN](https://img.shields.io/badge/RNN-24243e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![LSTM](https://img.shields.io/badge/LSTM-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+### 🗄️ Databases & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-302b63?style=for-the-badge&logo=mysql&logoColor=00BCF2)
+![SQL Queries](https://img.shields.io/badge/SQL%20Queries-24243e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0f0c29?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-302b63?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+
+### 📊 Data Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-24243e?style=for-the-badge&logo=tableau&logoColor=E97627)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-302b63?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Excel](https://img.shields.io/badge/Excel%20Advanced-24243e?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+
+### 🌐 Web Frameworks
+![Flask](https://img.shields.io/badge/Flask-302b63?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24243e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-302b63?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Jupyter](https://img.shields.io/badge/Jupyter-24243e?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-24243e?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+### 🦾 AI Agents & Automation *(Next-Gen)*
+![CrewAI](https://img.shields.io/badge/CrewAI-0f0c29?style=for-the-badge&logo=openai&logoColor=FF6B6B)
+![Zapier](https://img.shields.io/badge/Zapier-302b63?style=for-the-badge&logo=zapier&logoColor=FF4A00)
 
 </div>
 
@@ -82,14 +100,16 @@ class KishoreKannan:
 ## 📊 ML Expertise Map
 
 ```
-🔵 Supervised Learning     ████████████████████  Expert
-🟣 Unsupervised Learning   ████████████████░░░░  Advanced
-🔵 Deep Learning           ██████████████░░░░░░  Advanced (Growing)
-🟣 Feature Engineering     ████████████████████  Expert
-🔵 Model Evaluation        ████████████████████  Expert
-🟣 Data Warehousing        ██████████████░░░░░░  Advanced
-🔵 Data Visualization      ████████████████████  Expert
-🟣 NLP                     ████████████░░░░░░░░  Intermediate
+🔵 Supervised Learning       ████████████████████  Expert
+🟣 Unsupervised Learning     ████████████████░░░░  Advanced
+🔵 Feature Engineering       ████████████████████  Expert
+🟣 Model Evaluation          ████████████████████  Expert
+🔵 Deep Learning (ANN/CNN)   ██████████████░░░░░░  Advanced
+🟣 RNN / LSTM                ████████████░░░░░░░░  Intermediate
+🔵 NLP                       ████████████░░░░░░░░  Intermediate
+🟣 ETL Pipelines             ████████████████░░░░  Advanced
+🔵 Data Visualization        ████████████████████  Expert
+🟣 LangChain / AI Agents     ██████████░░░░░░░░░░  Growing 🚀
 ```
 
 ---
